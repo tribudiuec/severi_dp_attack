@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.9961319596831182,
+  "algorithm": "xgboost",
+  "macro_f1": 0.9960440082759023,
+  "pr_auc": 0.9998162572965574,
+  "roc_auc": 0.9998529606845549,
+  "roc_pdf": "ml_training_bodmas/Classifier_ROC_AUC_test_xgboost.pdf",
+  "samples": 26887,
+  "subset": "test"
+}

@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.9883958790493547,
+  "algorithm": "random_forest",
+  "macro_f1": 0.9881244283724635,
+  "pr_auc": 0.9988855417480557,
+  "roc_auc": 0.9990478674033109,
+  "roc_pdf": "ml_training_bodmas/Classifier_ROC_AUC_test_randomforest.pdf",
+  "samples": 26887,
+  "subset": "test"
+}

@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.9955740692527988,
+  "algorithm": "catboost",
+  "macro_f1": 0.9954750175927963,
+  "pr_auc": 0.999767805524494,
+  "roc_auc": 0.9998021827682344,
+  "roc_pdf": "ml_training_bodmas/Classifier_ROC_AUC_test_catboost.pdf",
+  "samples": 26887,
+  "subset": "test"
+}

@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.9959088035109904,
+  "algorithm": "lightgbm",
+  "macro_f1": 0.9958169133920755,
+  "pr_auc": 0.9998070252921889,
+  "roc_auc": 0.9998387064404725,
+  "roc_pdf": "ml_training_bodmas/Classifier_ROC_AUC_test_lightgbm.pdf",
+  "samples": 26887,
+  "subset": "test"
+}
