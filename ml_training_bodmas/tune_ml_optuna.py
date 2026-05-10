@@ -90,7 +90,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--max-train-samples",
         type=int,
-        default=50000,
+        default=110000,
         help="Cap on labeled training samples used during tuning and final fitting.",
     )
     parser.add_argument(
